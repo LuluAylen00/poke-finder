@@ -1,0 +1,8 @@
+{
+    "name": "poke-finder",
+    "description": "Quick pokemon finder with PokeAPI",
+    "version": "0.1.1",
+    "repository": {
+      "url": "https://github.com/LuluAylen00/poke-finder"
+  }
+  }
